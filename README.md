@@ -62,9 +62,9 @@ To build a single HTML page (`index.html`) using semantic HTML5 elements that:
 
 ## 👤 Author
 
-**Your Name**  
-Email: info@example.com  
-Location: Lagos, Nigeria  
+**Ukwuoma Harrison Chiedoziem**  
+Email: ukwuomaharri@gmail.com 
+Location: Abuja, Nigeria  
 Year: 2025
 
 ---
